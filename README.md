@@ -36,7 +36,7 @@
 以下为系统实机演示视频：
 
 [Bilibili 演示视频链接](https://player.bilibili.com/player.html?bvid=BV1XX4y1X7XX)
-（注：Markdown 不支持直接嵌入视频，点击链接可在B站观看。）
+（点击链接可在B站观看。）
 
 ---
 
